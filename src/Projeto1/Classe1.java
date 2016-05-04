@@ -6,6 +6,7 @@ public class Classe1 {
 	int idade;
 	String end;
 	
+	double salario;
 	
 	
 	
